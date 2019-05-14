@@ -2,9 +2,11 @@
 ###### Diplomová práca
 
 > Bc. Michal Puškel
+
 > školiteľka: doc. RNDr. Mária Markošová, PhD. 
 
 > 2019
+
 > FMFI UK
 
 ## Popis
