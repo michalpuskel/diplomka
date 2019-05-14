@@ -1,12 +1,10 @@
 # Analýza grafletovej štruktúry reálnych sietí
 ###### Diplomová práca
 
-> Bc. Michal Puškel
-
+> Bc. Michal Puškel  
 > školiteľka: doc. RNDr. Mária Markošová, PhD. 
 
-> 2019
-
+> 2019  
 > FMFI UK
 
 ## Popis
