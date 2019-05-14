@@ -11,6 +11,9 @@
 
 Vytvoriť nový softvér alebo vylepšiť existujúci softvér na analýzu grafletovej štruktúry komplexných sietí. S pomocou tohto softvéru zanalyzovať grafletovú štruktúru sietí, reálnych dát a vypočítať všetky miery s touto štruktúrou súvisiace. Zanalyzovať tiež grafletovú štruktúru umelo vytvorených sietí a porovnať s dátami.
 
+Táto diplomová práca je priamím pokračovaním bakalárskej práce *Pravdepodobnostné porovnávanie funkčných sietí mozgu*:
+http://www.st.fmph.uniba.sk/~puskel1/bakalarka/public/
+
 ## Ciele práce
 
 - dokončiť výskum, či sa atribút funkčnej siete mozgu "mať Alzheimerovu chorobu" prejavuje v štruktúre jej grafu
