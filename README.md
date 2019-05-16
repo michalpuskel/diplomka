@@ -23,7 +23,7 @@ http://www.st.fmph.uniba.sk/~puskel1/bakalarka/public/
 
 ## Prezentácia pokroku [projektový seminár 1]
 
-http://htmlpreview.github.io/?https://github.com/michalpuskel/diplomka/blob/master/prezentacia.html
+http://www.st.fmph.uniba.sk/~puskel1/projektovy_seminar_1/prezentacia.html#/
 
 ## PDF
 
