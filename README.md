@@ -4,7 +4,7 @@
 > Bc. Michal Puškel  
 > školiteľka: doc. RNDr. Mária Markošová, PhD. 
 
-> 2019  
+> 2021  
 > FMFI UK
 
 ## Popis
