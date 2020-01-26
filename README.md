@@ -25,6 +25,10 @@ http://www.st.fmph.uniba.sk/~puskel1/bakalarka/public/
 
 http://www.st.fmph.uniba.sk/~puskel1/projektovy_seminar_1/prezentacia.html#/
 
+## Prezentácia pokroku [projektový seminár 2]
+
+http://www.st.fmph.uniba.sk/~puskel1/projektovy_seminar_2/prezentacia.html#/
+
 ## PDF
 
 https://github.com/michalpuskel/diplomka/blob/master/main.pdf
