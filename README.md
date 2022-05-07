@@ -12,9 +12,9 @@
 Vytvoriť nový softvér alebo vylepšiť existujúci softvér na analýzu grafletovej štruktúry komplexných sietí. S pomocou tohto softvéru zanalyzovať grafletovú štruktúru sietí, reálnych dát a vypočítať všetky miery s touto štruktúrou súvisiace. Zanalyzovať tiež grafletovú štruktúru umelo vytvorených sietí a porovnať s dátami.
 
 Táto diplomová práca je priamím pokračovaním bakalárskej práce *Pravdepodobnostné porovnávanie funkčných sietí mozgu*:
-https://github.com/michalpuskel/diplomka/blob/master/michal_puskel_bak_praca.pdf
-https://github.com/michalpuskel/diplomka/blob/master/poster_algoritmy.pdf
-https://github.com/michalpuskel/diplomka/blob/master/poster_algoritmy_2.pdf
+- https://github.com/michalpuskel/diplomka/blob/master/michal_puskel_bak_praca.pdf
+- https://github.com/michalpuskel/diplomka/blob/master/poster_algoritmy.pdf
+- https://github.com/michalpuskel/diplomka/blob/master/poster_algoritmy_2.pdf
 
 ## Ciele práce
 
