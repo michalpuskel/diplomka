@@ -29,7 +29,7 @@ https://github.com/michalpuskel/diplomka/blob/master/michal_puskel_dip_praca.pdf
 
 ## Prezentácia
 
-https://github.com/michalpuskel/diplomka/blob/master/prezentacia_seminar.zip
+https://github.com/michalpuskel/diplomka/blob/master/prezentacia.zip
 
 ## Zdrojové kódy
 
