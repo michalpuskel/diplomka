@@ -4,7 +4,7 @@
 > Bc. Michal Puškel  
 > supervisor: doc. RNDr. Mária Markošová, PhD. 
 
-> 2022
+> 2022  
 > FMFI UK
 
 ## Task description
