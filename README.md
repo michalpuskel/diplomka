@@ -235,7 +235,8 @@ export interface IAllData {
 - For convenient display only id labels of graphs are shown in head row / column.
 - Id labels are assigned to respective graphs (files) automatically from the definition order in gdd_agreement tool input file.
 - Assigned ids can be checked directly in JSON file.
-- The more similar are 2 compared graphs in terms of GDD agreement, the closer their GDD agreement comparison value is to 1<br />
+- The more similar are 2 compared graphs in terms of GDD agreement,<br />
+  the closer their GDD agreement comparison value is to 1<br />
   and this shows off as more green in infographic.
 - Similarly, the less similar compared graphs are, the closer is their GDD agreement value to 0<br />
   and this shows off as more red in the table.
