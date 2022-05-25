@@ -1,8 +1,9 @@
 # Graphlet Structure Analysis of the Real Networks
+
 ###### Master's thesis
 
 > Bc. Michal Puškel  
-> supervisor: doc. RNDr. Mária Markošová, PhD. 
+> supervisor: doc. RNDr. Mária Markošová, PhD.
 
 > 2022  
 > FMFI UK
@@ -12,7 +13,7 @@
 Student will create new software
 or will improve already existing software
 for graphlet structure analysis of the complex networks.
-By the use of this software, 
+By the use of this software,
 student will analyse graphlet structure of real data networks
 and will enumerate all measures related to this structure.
 Student will analyse graphlet structure of artificialy generated networks, as well,
@@ -24,7 +25,8 @@ Analyse graphlet structure of real networks by the use of improved or own create
 
 #### Description
 
-This Master's thesis is a direct sequel to our former Bachelor's thesis *Probability Comparison of Functional Brain Networks*:
+This Master's thesis is a direct sequel to our former Bachelor's thesis _Probability Comparison of Functional Brain Networks_:
+
 - https://github.com/michalpuskel/diplomka/blob/master/michal_puskel_bak_praca.pdf
 - https://github.com/michalpuskel/diplomka/blob/master/poster_algoritmy.pdf
 - https://github.com/michalpuskel/diplomka/blob/master/poster_algoritmy_2.pdf
@@ -35,8 +37,8 @@ This Master's thesis is a direct sequel to our former Bachelor's thesis *Probabi
 - Create software for counting and comparing GDD agreement of networks.
 - Compare some trivially distinguishable artificialy generated networks to validate GDD agreement.
 - Find out if an attribute of a functional brain network
-„to suffer from the Alzheimer disease” 
-shows off in the structure of its graph.
+  „to suffer from the Alzheimer disease”
+  shows off in the structure of its graph.
 
 #### Results
 
@@ -59,7 +61,6 @@ https://gitlab.com/michal.puskel/gdd
 
 - https://youtu.be/VezPTKmdfNE
 - https://github.com/michalpuskel/diplomka/blob/master/Graphlet_Structure_Analysis_of_the_Real_Networks.mp4.zip
-- https://github.com/michalpuskel/diplomka/blob/master/Graphlet_Structure_Analysis_of_the_Real_Networks.mov.zip
 
 #### Quick start guide
 
