@@ -56,7 +56,10 @@ https://github.com/michalpuskel/diplomka/blob/master/prezentacia.zip
 https://gitlab.com/michal.puskel/gdd
 
 #### Video presentation
-TODO YouTube link
+
+- https://youtu.be/VezPTKmdfNE
+- https://github.com/michalpuskel/diplomka/blob/master/Graphlet_Structure_Analysis_of_the_Real_Networks.mp4.zip
+- https://github.com/michalpuskel/diplomka/blob/master/Graphlet_Structure_Analysis_of_the_Real_Networks.mov.zip
 
 #### Quick start guide
 
