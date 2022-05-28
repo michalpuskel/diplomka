@@ -53,6 +53,10 @@ https://github.com/michalpuskel/diplomka/blob/master/michal_puskel_dip_praca.pdf
 
 https://github.com/michalpuskel/diplomka/blob/master/prezentacia.zip
 
+#### Presentation datasets
+
+https://github.com/michalpuskel/diplomka_final_presentation_datasets
+
 #### Source code
 
 https://gitlab.com/michal.puskel/gdd
