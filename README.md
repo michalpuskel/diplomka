@@ -51,7 +51,8 @@ https://github.com/michalpuskel/diplomka/blob/master/michal_puskel_dip_praca.pdf
 
 #### Presentation
 
-https://github.com/michalpuskel/diplomka/blob/master/prezentacia.zip
+- https://github.com/michalpuskel/diplomka/blob/master/prezentacia.pdf
+- https://github.com/michalpuskel/diplomka/blob/master/prezentacia.key.zip
 
 #### Presentation datasets
 
